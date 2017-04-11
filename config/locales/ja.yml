@@ -1,7 +1,7 @@
 ---
 ja:
   about:
-    about_mastodon: Mastodon は<em>無料でオープンソース</em>のソーシャルネットワークです。 従来のプラットフォームとは違う<em>分散型</em>で、これはあなたの会話が一つの会社によって独占されるのを防ぎます。自分の信頼できるサーバーを選びます&mdash; どのサーバーを選んでも、誰とでも会話することができます。 だれでも自分の Mastodon サーバーを作ることができ、<em>シームレスにソーシャルネットワークに参加</em>できます。
+    about_mastodon: Mastodon は<em>無料でオープンソース</em>のソーシャルネットワークです。 従来のプラットフォームとは違う<em>分散型</em>で、これはあなたの会話が一つの会社によって独占されるのを防ぎます。信頼できるサーバーを選択してください &mdash; どのサーバーを選んでも、誰とでも会話することができます。 だれでも自分の Mastodon サーバーを作ることができ、<em>シームレスにソーシャルネットワークに参加</em>できます。
     about_this: このサーバーについて
     apps: アプリ
     business_email: 'ビジネスメールアドレス:'
@@ -96,7 +96,7 @@ ja:
   landing_strip_html: <strong>%{name}</strong>さんはサーバー<strong>%{domain}</strong>のユーザーです。アカウントさえ持っていればフォローしたり会話したりできます。もしお持ちでないなら<a href="%{sign_up_path}">こちら</a>からサインアップできます。
   media_attachments:
     validations:
-      images_and_video: 既に画像が追加されている場合動画を追加することはできません。
+      images_and_video: 既に画像が追加されているため、動画を追加することはできません。
       too_many: 追加できるファイルは4つまでです。
   notification_mailer:
     digest:
