@@ -27,10 +27,10 @@ ja:
       edit:
         title: アプリケーションの編集
       form:
-        error: うわっ! フォームにエラーが無いか確認してください。
+        error: フォームにエラーが無いか確認してください。
       help:
         native_redirect_uri: ローカルテストに %{native_redirect_uri} を使用
-        redirect_uri: Use one line per URI
+        redirect_uri: 一行に一つのURLを入力してください
         scopes: アクセス権は半角スペースで区切ることができます。 空白のままにするとデフォルトを使用します。
       index:
         callback_url: コールバックURL
@@ -53,7 +53,7 @@ ja:
       error:
         title: エラーが発生しました。
       new:
-        able_to: It will be able to
+        able_to: このアプリケーションは以下のことができます
         prompt: アプリケーション %{client_name} があなたのアカウントへのアクセスを要求しています。
         title: 認証が必要です。
       show:
@@ -84,7 +84,7 @@ ja:
           revoked: アクセストークンは取り消されています。
           unknown: アクセストークンが無効です。
         resource_owner_authenticator_not_configured: Doorkeeper.configure.resource_owner_authenticatorが設定されていないため、リソース所有者の検索に失敗しました。
-        server_error: 認証サーバーが予期せぬ例外が発生したため、リクエストを実行できなくなりました。
+        server_error: 認証サーバーに予期せぬ例外が発生したため、リクエストを実行できなくなりました。
         temporarily_unavailable: 現在、認証サーバーに一時的な過負荷が掛かっているか、またはメンテナンス中のため、リクエストを処理できません。
         unauthorized_client: クライアントはこのメゾットで要求を実行する権限がありません。
         unsupported_grant_type: 指定された認証許可タイプは認証サーバでサポートされていません。
